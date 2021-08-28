@@ -1,6 +1,6 @@
 # Drink-Water-Notification
 
- Guys, I Have Made Drink Water Notification. You Can See The Code and Learn From It.
+ Guys, I Have Made Drink Water Notification. You Can See The Code and Learn From It (I Have Made a Small Code).
  
 Note: Run This Code In *Python* or *VS Code*.
 
