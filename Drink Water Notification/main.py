@@ -6,4 +6,4 @@ if __name__ == "__main__":
         message = "Time to Drink Water",
         app_icon = "bg.ico",
         timeout=10
-    )
+)
