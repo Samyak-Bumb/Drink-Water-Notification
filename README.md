@@ -2,6 +2,7 @@
 
 ```python
 # Created By Samyak Bumb
+
 import time
 
 from plyer import notification
@@ -14,4 +15,9 @@ if __name__ == "__main__":
         app_icon = "bg.ico",
         timeout=10
 )
+```
+
+### Pip Installs Packages (This is Required)
+```javascript
+pip install plyer
 ```
