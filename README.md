@@ -18,7 +18,7 @@ if __name__ == "__main__":
 )
 ```
 
-### Requirenment:
+### Requirement:
 ```javascript
 pip install plyer
 ```
