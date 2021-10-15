@@ -1,6 +1,7 @@
-# Drink-Water-Notification Code
+# Drink-Water-Notification
 
-```python
+ Code:
+```py
 # Created By Samyak Bumb
 
 import time
@@ -17,7 +18,7 @@ if __name__ == "__main__":
 )
 ```
 
-### Pip Installs Packages (This is Required)
+### Requirenment:
 ```javascript
 pip install plyer
 ```
